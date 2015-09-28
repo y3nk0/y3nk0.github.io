@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konstantinos Skianis blog</title>
+    <description>This is my blog. Do not take for granted anything. Question everything.</description>
+    <link>http://y3nk0.github.io/</link>
+    <atom:link href="http://y3nk0.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Sep 2015 18:26:46 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2015 18:26:46 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Create your own Github page</title>
+        <description>&lt;p&gt;You can to &lt;a href=&quot;https://pages.github.com/&quot;&gt;github&lt;/a&gt; and create your own username.github.io page for free.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 28 Sep 2015 22:59:04 +0200</pubDate>
+        <link>http://y3nk0.github.io/jekyll/update/2015/09/28/create-github-page.html</link>
+        <guid isPermaLink="true">http://y3nk0.github.io/jekyll/update/2015/09/28/create-github-page.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to my new blog!</title>
+        <description>&lt;p&gt;Tired with the Wordpress installation and time consuming MySQL database settings? Switch to Jekyll. That’s what I did.&lt;/p&gt;
+
+&lt;p&gt;Here I will post news and interesting facts about CS and ML.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 28 Sep 2015 19:59:04 +0200</pubDate>
+        <link>http://y3nk0.github.io/jekyll/update/2015/09/28/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://y3nk0.github.io/jekyll/update/2015/09/28/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

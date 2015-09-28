@@ -1,0 +1,11 @@
+# Site settings
+title: Konstantinos Skianis blog
+email: kskianis@lix.polytechnique.fr
+description: "This is my blog. Do not take for granted anything. Question everything."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://y3nk0.github.io" # the base hostname & protocol for your site
+twitter_username: kskianis
+github_username:  y3nk0
+
+# Build settings
+markdown: kramdown
