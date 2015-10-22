@@ -5,6 +5,6 @@ excerpt: "How to create your own Github page."
 date:   2015-09-28 20:59:04
 categories: jekyll update
 ---
-You can go to [github] and create your own username.github.io page for free.
+A great book for improving your advanced english [github] and get ready for paper writing.
 
 [github]:      https://pages.github.com/
