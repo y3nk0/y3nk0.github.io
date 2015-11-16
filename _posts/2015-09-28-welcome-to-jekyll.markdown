@@ -3,7 +3,6 @@ layout: post
 title:  "Welcome to my new blog!"
 excerpt: "Hello world!"
 date:   2015-09-28 17:59:04
-categories: jekyll update
 ---
 Tired with the Wordpress installation and time consuming MySQL database settings? Switch to Jekyll. That's what I did.
 
