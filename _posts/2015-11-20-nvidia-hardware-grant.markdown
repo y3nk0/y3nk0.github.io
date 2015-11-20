@@ -6,8 +6,8 @@ date:   2015-11-20 20:59:04
 mathjax: false
 ---
 ###Hardware Grant Requests 
-Professors, Researchers and Advisors should complete the online [Hardware Grant Request] Form to request a GPU for research purposes for themselves and/or their teams.
- In order to review your request, we require a proposal and CV.  Your proposal must include the following:
+Professors, Researchers and Advisors should complete the online [Hardware Grant Request] Form to request a GPU for research purposes for themselves and/or their teams. In order to review your request, we require a proposal and CV. Your proposal must include the following:
+
 - contact information 
 - a short description of your research project(s)
 - how you and/or your team will use the GPU
