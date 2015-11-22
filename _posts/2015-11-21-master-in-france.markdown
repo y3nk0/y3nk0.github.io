@@ -21,6 +21,6 @@ Some Masters in french universities and grandes ecoles that are located in Paris
 2. [MPRI] - Master Parisien de Recherche en Informatique (Master of Research in Computer Science)
 3. [Data Science Paris-Saclay] - Data Science Master M2 in the newly formed Paris-Saclay university
 
-[Master M2 MVA]:	http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528
+[MVA]:	http://www.math.ens-cachan.fr/version-francaise/formations/master-mva/contenus-/master-mva-cours-2015-2016-161721.kjsp?RH=1242415112528
 [MPRI]:	https://wikimpri.dptinfo.ens-cachan.fr/doku.php
 [Data Science Paris-Saclay]: http://datascience-x-master-paris-saclay.fr
