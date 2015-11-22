@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Master in France"
+title:  "CS Master in France"
 excerpt: "You are trying to decide where is the ideal place to do your Computer Science Master in Europe? France is probably the best way to go."
 date:   2015-11-21 20:59:04
 ---
@@ -13,7 +13,7 @@ You are trying to decide where is the ideal place to do your Computer Science Ma
 - possibility of scholarship given good grades and background
 - beautiful French cities(Paris for my case)
 
-Comparing France to United Kingdom spefically you get very high tuition fees, which in some cases are prohibitive and a higher living cost, especially if the universities you prefer are located in London. It all boils down essentially to the language barrier. Things are a bit hard in France in the case you don't speak French at all. But don't worry about that. You will get used to it.
+Comparing France to United Kingdom spefically, you get very high tuition fees, which in some cases are prohibitive, and a higher living cost, especially if the universities you prefer are located in London. It all boils down essentially to the language barrier. Things are a bit hard in France in the case you don't speak French at all. But don't worry about that. You will get used to it.
 
 Some Masters in french universities and grandes ecoles that are located in Paris and the greater area of Ile-de-France:
 1. [MVA]: Master M2 Mathematiques/Vision/Apprentisage (Math, Computer Vision, Machine Learning)
