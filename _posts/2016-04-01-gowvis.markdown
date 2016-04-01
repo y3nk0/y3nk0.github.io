@@ -2,7 +2,7 @@
 layout: post
 title:  "GowVis"
 excerpt: "Graph-of-Words and community detection visualization."
-date:   2016-04-01 14:25:00
+date:   2016-04-01 20:59:04
 ---
 Our demo "An Interactive Web Application for Graph-of-Words Visualization and Degeneracy-Based Unsupervised Extractive Document Summarization", made by Antoine Tixier, me and Professor Michalis Vazirgiannis is online! Test it [here].
 
