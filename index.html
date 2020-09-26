@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html lang="en" style="" class=" js no-touch csstransitions"><head>
   <title>Konstantinos Skianis, BLUAI</title>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1210,3 +1211,25 @@
 
 </body>
 </html>
+=======
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+>>>>>>> 9e25534b904c5cc6a2f7f3de69d245e827a8c820
