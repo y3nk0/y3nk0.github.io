@@ -199,6 +199,17 @@
                                         <ul class="timeline">
 
                                             <li class="open">
+                                              <div class="date">26-1-2026</div>
+                                              <div class="circle"></div>
+                                              <div class="data">
+                                                  <div><h4>Paper accepted at ICLR 2026</h4></div>
+                                                  <div class="text row open" style="display: block;">
+                                                      <div class="col-md-10">Our paper "On the Lipschitz Continuity of Set Aggregation Functions and Neural Networks for Sets" has been accepted for publication at ICLR 2026. You can check out the paper <a href="https://arxiv.org/pdf/2505.24403" target="_blank">here</a>.</div>
+                                                  </div>
+                                              </div>
+                                          </li>
+
+                                            <li class="open">
                                                   <div class="date">13-10-2025</div>
                                                   <div class="circle"></div>
                                                   <div class="data">
@@ -602,6 +613,34 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="pitems">
+
+                                            <div class="item mix cpaper mix_all" data-year="2026" style="display: block;  opacity: 1;">
+                                              <div class="pubmain">
+                                                  <div class="pubassets">
+                                                      <a href="#" class="pubcollapse tooltips" title="" data-original-title="Abstract">
+                                                          <i class="fa fa-plus-square-o"></i>
+                                                      </a>
+                                                      <a href="https://arxiv.org/pdf/2505.24403" class="tooltips" title="" target="_blank" data-original-title="Download paper">
+                                                          <i class="icon-download"></i>
+                                                      </a>
+
+                                                  </div>
+
+                                                  <h4 class="pubtitle">
+                                                     On the Lipschitz Continuity of Set Aggregation Functions and Neural Networks for Sets
+                                                  </h4>
+                                                  <div class="pubauthor">Giannis Nikolentzos, <strong>Konstantinos Skianis</strong></div>
+                                                  <div class="pubcite">
+                                                      <span class="label label-primary">Conference</span> ICLR 2026
+                                                  </div>
+
+                                              </div>
+                                              <div class="pubdetails">
+                                                  <h4>Abstract</h4>
+                                                  <p>The Lipschitz constant of a neural network is connected to several important properties of the network such as its robustness and generalization. It is thus useful in many settings to estimate the Lipschitz constant of a model. Prior work has focused mainly on estimating the Lipschitz constant of multi-layer perceptrons and convolutional neural networks. Here we focus on data modeled as sets or multisets of vectors and on neural networks that can handle such data. These models typically apply some permutation invariant aggregation function, such as the sum, mean or max operator, to the input multisets to produce a single vector for each input sample. In this paper, we investigate whether these aggregation functions are Lipschitz continuous with respect to three distance functions for unordered multisets, and we compute their Lipschitz constants. In the general case, we find that each aggregation function is Lipschitz continuous with respect to only one of the three distance functions. Then, we build on these results to derive upper bounds on the Lipschitz constant of neural networks that can process multisets of vectors, while we also study their stability to perturbations and generalization under distribution shifts. To empirically verify our theoretical analysis, we conduct a series of experiments on datasets from different domains.</p>
+                                              </div>
+                                          </div>
+
                                                 <div class="item mix cpaper mix_all" data-year="2025" style="display: block;  opacity: 1;">
                                                     <div class="pubmain">
                                                         <div class="pubassets">
@@ -662,33 +701,6 @@
                                                   <div class="pubdetails">
                                                       <h4>Abstract</h4>
                                                       <p>Retrieval-Augmented Generation (RAG) enhances language models by grounding responses in external information, yet explainability remains a critical challenge, particularly when retrieval relies on unstructured text. Knowledge graphs (KGs) offer a solution by introducing structured, semantically rich representations of entities and their relationships, enabling transparent retrieval paths and interpretable reasoning. In this work, we present KGRAG-Ex, a RAG system that improves both factual grounding and explainability by leveraging a domain-specific KG constructed via prompt-based information extraction. Given a user query, KGRAG-Ex identifies relevant entities and semantic paths in the graph, which are then transformed into pseudo-paragraphs: natural language representations of graph substructures that guide corpus retrieval. To improve interpretability and support reasoning transparency, we incorporate perturbation-based explanation methods that assess the influence of specific KG-derived components on the generated answers. We conduct a series of experiments to analyze the sensitivity of the system to different perturbation methods, the relationship between graph component importance and their structural positions, the influence of semantic node types, and how graph metrics correspond to the influence of components within the explanations process.</p>
-                                                  </div>
-                                              </div>
-
-                                                <div class="item mix cpaper mix_all" data-year="2025" style="display: block;  opacity: 1;">
-                                                  <div class="pubmain">
-                                                      <div class="pubassets">
-                                                          <a href="#" class="pubcollapse tooltips" title="" data-original-title="Abstract">
-                                                              <i class="fa fa-plus-square-o"></i>
-                                                          </a>
-                                                          <a href="https://arxiv.org/pdf/2505.24403" class="tooltips" title="" target="_blank" data-original-title="Download paper">
-                                                              <i class="icon-download"></i>
-                                                          </a>
-
-                                                      </div>
-
-                                                      <h4 class="pubtitle">
-                                                         On the Lipschitz Continuity of Set Aggregation Functions and Neural Networks for Sets
-                                                      </h4>
-                                                      <div class="pubauthor">Giannis Nikolentzos, <strong>Konstantinos Skianis</strong></div>
-                                                      <div class="pubcite">
-                                                          <span class="label label-primary">Conference</span> Arxiv 2025
-                                                      </div>
-
-                                                  </div>
-                                                  <div class="pubdetails">
-                                                      <h4>Abstract</h4>
-                                                      <p>The Lipschitz constant of a neural network is connected to several important properties of the network such as its robustness and generalization. It is thus useful in many settings to estimate the Lipschitz constant of a model. Prior work has focused mainly on estimating the Lipschitz constant of multi-layer perceptrons and convolutional neural networks. Here we focus on data modeled as sets or multisets of vectors and on neural networks that can handle such data. These models typically apply some permutation invariant aggregation function, such as the sum, mean or max operator, to the input multisets to produce a single vector for each input sample. In this paper, we investigate whether these aggregation functions are Lipschitz continuous with respect to three distance functions for unordered multisets, and we compute their Lipschitz constants. In the general case, we find that each aggregation function is Lipschitz continuous with respect to only one of the three distance functions. Then, we build on these results to derive upper bounds on the Lipschitz constant of neural networks that can process multisets of vectors, while we also study their stability to perturbations and generalization under distribution shifts. To empirically verify our theoretical analysis, we conduct a series of experiments on datasets from different domains.</p>
                                                   </div>
                                               </div>
 
