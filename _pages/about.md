@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor of Natural Language Processing (NLP) at the [Department of Computer Science and Engineering](https://www.cse.uoi.gr/) of the [University of Ioannina](https://www.uoi.gr/). My primary research interests lie at the intersection of NLP, Machine Learning, Deep Learning, and Data Science. More specifically, I am interested in how robustness, reasoning, interpretability, and explainability jointly contribute to building trustworthy and reliable models.
 
-Recently, I founded [BLUAI](http://bluai.github.io/), a Greek AI company which assists in accelerating AI adoption and incorporating novel NLP technologies. I also co-founded [PrimeHost AI](https://primehost.ai/), a startup which aims to build an AI superhost for short-term rentals.
+I founded [BLUAI](http://bluai.github.io/), a Greek AI company which assists in accelerating AI adoption and incorporating novel NLP technologies. I also co-founded [PrimeHost AI](https://primehost.ai/), a startup which aims to build an AI superhost for short-term rentals.
 
 Previously, I was a Ph.D. student at [École Polytechnique](https://www.polytechnique.edu/en), where I completed my thesis entitled ["Novel Representations, Regularization & Distances for Text Classification"](/files/PhD_thesis_SKIANIS.pdf), as a member of [DaSciM](http://www.lix.polytechnique.fr/dascim/) (Data Science and Mining team), under the supervision of Professor [Michalis Vazirgiannis](http://www.lix.polytechnique.fr/~mvazirg/). You can also find my defense slides [here](/files/PhD_presentation_SKIANIS.pdf).
 
@@ -47,5 +47,5 @@ Department of Computer Science and Engineering
 University of Ioannina  
 45110 Ioannina, Greece
 
-* kskianis _at_ cse.uoi.gr
-* skianis.konstantinos _at_ gmail.com
+* kskianis \_at\_ cse.uoi.gr
+* skianis.konstantinos \_at\_ gmail.com
