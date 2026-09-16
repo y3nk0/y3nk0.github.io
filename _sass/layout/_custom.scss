@@ -196,3 +196,9 @@
 body {
   padding-bottom: 3.5em;
 }
+
+/* Slightly smaller title links in the publication list */
+.pub-item .archive__item-title {
+  font-size: 1.1em;
+  line-height: 1.25;
+}
