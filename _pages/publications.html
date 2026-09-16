@@ -7,27 +7,76 @@ author_profile: true
 
 {% include base_path %}
 
-<p>My published work, grouped by type and listed from newest to oldest. Click a title for the paper page, or expand the abstract inline.
+<p>My published work, newest first. Use the buttons to show only one type of publication. Click a title for the paper page, or expand the abstract inline.
 {% if site.author.googlescholar %}You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.{% endif %}</p>
 
-<p class="pub-jump">{% for category in site.publication_category %}<a href="#{{ category[0] }}">{{ category[1].title }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>
-
-{% if site.publication_category %}
+<div class="pub-filters" role="group" aria-label="Filter publications by type">
+  <button type="button" class="pub-filter is-active" data-filter="all" aria-pressed="true">All <span class="pub-filter__count">{{ site.publications | size }}</span></button>
   {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2 id="{{ category[0] }}">{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+    {% assign cat_pubs = site.publications | where: "category", category[0] %}
+    {% if cat_pubs.size > 0 %}
+  <button type="button" class="pub-filter" data-filter="{{ category[0] }}" aria-pressed="false">{{ category[1].title }} <span class="pub-filter__count">{{ cat_pubs.size }}</span></button>
+    {% endif %}
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+</div>
+
+<div class="pub-list" id="pub-list">
+{% assign prev_year = "" %}
+{% for post in site.publications reversed %}
+  {% assign year = post.date | date: "%Y" %}
+  {% if year != prev_year %}
+  <h2 class="pub-year" data-year="{{ year }}">{{ year }}</h2>
+  {% assign prev_year = year %}
+  {% endif %}
+  <div class="pub-item" data-category="{{ post.category }}" data-year="{{ year }}">
     {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  </div>
+{% endfor %}
+</div>
+<p class="pub-empty" id="pub-empty" hidden>No publications of this type yet.</p>
+
+<script>
+(function () {
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.pub-filter'));
+  var items = Array.prototype.slice.call(document.querySelectorAll('.pub-item'));
+  var years = Array.prototype.slice.call(document.querySelectorAll('.pub-year'));
+  var empty = document.getElementById('pub-empty');
+
+  function apply(filter, updateHash) {
+    var shown = 0;
+    items.forEach(function (item) {
+      var match = filter === 'all' || item.getAttribute('data-category') === filter;
+      item.hidden = !match;
+      if (match) { shown += 1; }
+    });
+    years.forEach(function (heading) {
+      var year = heading.getAttribute('data-year');
+      heading.hidden = !items.some(function (item) {
+        return !item.hidden && item.getAttribute('data-year') === year;
+      });
+    });
+    buttons.forEach(function (button) {
+      var active = button.getAttribute('data-filter') === filter;
+      button.classList.toggle('is-active', active);
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    empty.hidden = shown > 0;
+    if (updateHash && window.history && window.history.replaceState) {
+      window.history.replaceState(null, '', filter === 'all' ? window.location.pathname : '#' + filter);
+    }
+  }
+
+  buttons.forEach(function (button) {
+    button.addEventListener('click', function () { apply(button.getAttribute('data-filter'), true); });
+  });
+
+  function applyFromHash() {
+    var wanted = window.location.hash.replace('#', '');
+    var known = buttons.some(function (button) { return button.getAttribute('data-filter') === wanted; });
+    apply(known ? wanted : 'all', false);
+  }
+
+  window.addEventListener('hashchange', applyFromHash);
+  applyFromHash();
+})();
+</script>

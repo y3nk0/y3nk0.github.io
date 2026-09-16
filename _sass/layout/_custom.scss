@@ -116,3 +116,101 @@
     width: auto;
   }
 }
+
+/* Publication list: filter buttons and year headings */
+
+.pub-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0.5em 0 1.25em;
+}
+
+.pub-filter {
+  padding: 0.3em 0.85em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--global-text-color);
+  font-family: inherit;
+  font-size: 0.8em;
+  line-height: 1.4;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    border-color: var(--global-link-color);
+    color: var(--global-link-color);
+  }
+
+  &.is-active {
+    background: var(--global-link-color);
+    border-color: var(--global-link-color);
+    color: #fff;
+  }
+
+  &__count {
+    margin-left: 0.15em;
+    font-size: 0.85em;
+    opacity: 0.75;
+  }
+}
+
+.pub-year {
+  margin: 1.25em 0 0.25em;
+  padding-bottom: 0.15em;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 1.05em;
+  color: var(--global-text-color-light);
+}
+
+.pub-item[hidden],
+.pub-year[hidden],
+.pub-empty[hidden] {
+  display: none;
+}
+
+.pub-empty {
+  color: var(--global-text-color-light);
+  font-size: 0.9em;
+}
+
+/* Compact footer (the theme pins it to the bottom of the viewport on desktop) */
+
+.page__footer {
+  margin-top: 1.5em;
+
+  footer {
+    margin-top: 0;
+    padding: 0.3em 1em;
+  }
+}
+
+.page__footer-copyright {
+  font-size: 0.65em;
+  line-height: 1.5;
+  text-align: center;
+}
+
+/* Smaller social share row on paper and course pages */
+
+.page__share {
+  margin-top: 1.5em;
+  padding-top: 0.6em;
+
+  .page__share-title {
+    margin-bottom: 0.4em;
+    font-size: 0.65em;
+  }
+
+  .btn {
+    margin-bottom: 0;
+    padding: 0.25em 0.6em;
+    font-size: 0.65em;
+  }
+}
+
+/* The theme reserves 9em under the content for its tall fixed footer; the compact footer needs far less */
+body {
+  padding-bottom: 3.5em;
+}
