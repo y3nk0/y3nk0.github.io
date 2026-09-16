@@ -1,0 +1,97 @@
+# News items, newest first. The home page shows the most recent ones; /news/ lists them all.
+# Each item needs: date (YYYY-MM-DD), title, text (HTML allowed).
+# To hide an item without deleting it, add `hidden: true`.
+
+- date: 2026-09-12
+  title: "Best paper at GREEN-AI Workshop, co-located with ECML-PKDD 2026"
+  text: "Our paper <a href=\"/publication/2026-09-12-from-tokens-to-watt-hours-analytical-energy\">\"From Tokens to Watt-hours: Analytical Energy Estimation for LLM Inference on Modern GPUs\"</a> got accepted for oral presentation at the GREEN-AI Workshop, co-located with ECML-PKDD 2026, and also got the Best Paper Award! You can check out the paper <a href=\"https://arxiv.org/abs/2607.26571\">here</a>."
+
+- date: 2026-07-06
+  title: "Best paper at SemEval-2026 Task 6, co-located with ACL 2026"
+  text: "Our paper <a href=\"/publication/2026-07-06-cse-uoi-at-semeval-2026-task-6\">\"A Two-Stage Heterogeneous Ensemble with Deliberative Complexity Gating for Political Evasion Detection\"</a> got the best paper award at SemEval-2026 Task 6. You can check out the paper <a href=\"https://aclanthology.org/2026.semeval-1.435.pdf\">here</a>."
+
+- date: 2026-04-06
+  title: "GreekMMLU paper accepted at ACL 2026"
+  text: "Our paper <a href=\"/publication/2026-04-06-greekmmlu-a-native-sourced-multitask-benchmark-for\">\"GreekMMLU: A Native-Sourced Multitask Benchmark for Evaluating Language Models in Greek\"</a> got accepted at ACL 2026 Findings. You can check out the paper <a href=\"https://arxiv.org/abs/2602.05150\">here</a>."
+
+- date: 2026-01-26
+  title: "Paper accepted at ICLR 2026"
+  text: "Our paper <a href=\"/publication/2026-01-26-on-the-lipschitz-continuity-of-set-aggregation\">\"On the Lipschitz Continuity of Set Aggregation Functions and Neural Networks for Sets\"</a> has been accepted for publication at ICLR 2026. You can check out the paper <a href=\"https://arxiv.org/pdf/2505.24403\">here</a>."
+
+- date: 2025-05-25
+  title: "LLMs as a Soft Skill"
+  text: "I gave a presentation on \"Using Large Language Models Critically and Effectively as a Soft Skill\" at the University of Ioannina. You can find the slides <a href=\"/presentations/llms_soft_skill_uoi_2025.pdf\">here</a>."
+
+- date: 2024-06-06
+  title: "OpenAI credits"
+  text: "I got accepted by the OpenAI Researcher Access Program and got credits for my research in reasoning with LLMs. Thank you OpenAI!"
+
+- date: 2023-11-03
+  title: "Talk @CSE, University of Ioannina"
+  text: "I will be giving a talk at the Department of Computer Science and Engineering of the University of Ioannina on LLMs for Greek."
+
+- date: 2023-09-15
+  title: "Paper accepted at CIKM 2023"
+  text: "Our paper <a href=\"/publication/2023-09-15-on-the-trade-off-between-over-smoothing\">\"On the Trade-off between Over-smoothing and Over-squashing in Deep Graph Neural Networks\"</a> has been accepted for publication at CIKM 2023. You can check out the paper <a href=\"https://arxiv.org/abs/2212.02374\">here</a>."
+
+- date: 2023-05-15
+  title: "Paper accepted at IAICT 2023"
+  text: "Our paper <a href=\"/publication/2023-05-15-digital-twin-for-automated-industrial-optimization-intelligent\">\"Digital Twin for Automated Industrial Optimization: Intelligent Machine Selection via Process Modelling\"</a> has been accepted for publication at <a href=\"https://iaict.org/\">IAICT 2023</a>. You can check out the paper <a href=\"/papers/digital_twin_IAICT2023.pdf\">here</a>."
+
+- date: 2023-03-30
+  title: "Paper accepted at Nature Scientific Reports"
+  text: "Our paper <a href=\"/publication/2023-03-30-predicting-covid-19-positivity-and-hospitalization-with\">\"Predicting COVID-19 positivity and hospitalization with multi-scale graph neural networks\"</a> has been accepted for publication at the Nature Scientific Reports journal. You can check out the paper <a href=\"https://www.nature.com/articles/s41598-023-31222-6.epdf\">here</a>."
+
+- date: 2020-10-01
+  title: "Paper accepted at LOUHI 2020"
+  text: "Our paper <a href=\"/publication/2020-10-01-evaluation-of-machine-translation-methods-applied-to\">\"Evaluation of Machine Translation Methods applied to Medical Terminologies\"</a> has been accepted for presentation at the 11th International Workshop on Health Text Mining and Information Analysis (<a href=\"https://louhi2020.fbk.eu/\">LOUHI</a>), co-located with <a href=\"https://2020.emnlp.org/\">EMNLP 2020</a>! You can check out the paper <a href=\"/papers/medical_translation_louhi2020.pdf\">here</a>."
+
+- date: 2020-07-31
+  title: "Paper accepted at ICANN 2020"
+  text: "Our paper <a href=\"/publication/2020-07-31-boosting-tricks-for-word-mover-s-distance\">\"Boosting Tricks for Word Mover’s Distance\"</a> has been accepted for presentation at the 29th International Conference on Artificial Neural Networks (ICANN 2020)! You can check out the paper <a href=\"/papers/boosting_wmd_icann2020.pdf\">here</a>."
+
+- date: 2020-02-11
+  title: "Paper accepted at LREC 2020"
+  text: "Our paper <a href=\"/publication/2020-02-11-evaluation-of-greek-word-embeddings\">\"Evaluation of Greek Word Embeddings\"</a> has been accepted for presentation at the 12th International Conference on Language Resources and Evaluation (LREC), held in Marseille, France! You can check out the paper <a href=\"https://arxiv.org/abs/1904.04032\">here</a> and play with the resources <a href=\"http://archive.aueb.gr:7000/resources/\">here</a>."
+
+- date: 2020-01-07
+  title: "Paper accepted at AISTATS 2020"
+  text: "Our paper <a href=\"/publication/2020-01-07-rep-the-set-neural-networks-for-learning\">\"Rep the Set: Neural Networks for Learning Set Representations\"</a> has been accepted for presentation at AISTATS 2020, held in Palermo. Check out the paper <a href=\"https://arxiv.org/pdf/1904.01962.pdf\">here</a>."
+
+- date: 2019-10-05
+  title: "Machine translation for medical terminology"
+  text: "I am currently working on machine translation for medical terminology from English to French. We will report and publish methodology and resources for the task soon."
+
+- date: 2019-04-04
+  title: "New paper on arXiv"
+  text: "Check out our new paper on learning set representations with neural networks, published on arXiv: <a href=\"https://arxiv.org/abs/1904.01962\">https://arxiv.org/abs/1904.01962</a>. Code is available <a href=\"https://github.com/y3nk0/repset\">here</a>."
+
+- date: 2019-01-15
+  title: "Ph.D. defence date"
+  text: "I am defending my Ph.D. on March 1st 2019. Afterwards, I am going to stay for 3 more months in DaSciM until May 2019, as a postdoc researcher, to finish my ongoing research. My postdoc will be funded by École Polytechnique's \"Jeune Postdoc\" scholarship."
+
+- date: 2018-08-20
+  title: "Paper accepted at W-NUT @ EMNLP 2018"
+  text: "Our paper <a href=\"/publication/2018-08-20-orthogonal-matching-pursuit-for-text-classification\">\"Orthogonal Matching Pursuit for Text Classification\"</a> got accepted at the <a href=\"https://noisy-text.github.io/2018/index.html\">Noisy User-generated Text Workshop (W-NUT)</a>, EMNLP 2018."
+
+- date: 2018-07-09
+  title: "Paper accepted at ICANN 2018"
+  text: "Our paper <a href=\"/publication/2018-07-09-kernel-graph-convolutional-neural-networks\">\"Kernel Graph Convolutional Neural Networks\"</a> got accepted at <a href=\"https://e-nns.org/icann2018/\">ICANN 2018</a>."
+
+- date: 2018-06-08
+  title: "Best Paper Award @ TextGraphs 2018"
+  text: "Our paper <a href=\"/publication/2018-06-06-fusing-document-collection-and-label-graph-based\">\"Fusing Document, Collection and Label Graph-based Representations with Word Embeddings for Text Classification\"</a> got the Best Paper Award at the NAACL <a href=\"https://sites.google.com/view/textgraphs2018/home\">TextGraphs Workshop</a> 2018."
+
+- date: 2018-05-15
+  title: "Demo Program Committee, ECML-PKDD 2018"
+  text: "I am also invited to serve on the Program Committee for the <a href=\"http://www.ecmlpkdd2018.org/\">ECML-PKDD 2018</a> Demo Track. ECML-PKDD 2018 will take place in Dublin, Ireland, on 10–14 September 2018."
+
+- date: 2018-05-03
+  title: "Demo Program Committee, EMNLP 2018"
+  text: "I am invited to serve on the Program Committee for the <a href=\"http://emnlp2018.org/\">EMNLP 2018</a> Demonstration Track. EMNLP 2018 will be held in Brussels, Belgium, on November 2–4, 2018."
+
+# Course announcement kept from the old site; hidden because it is no longer current.
+- date: 2025-10-13
+  title: "No Linear Algebra lectures (14 and 15 Oct)"
+  text: "Due to family issues, we are not going to have any lectures this week (14 and 15th Oct)."
+  hidden: true
