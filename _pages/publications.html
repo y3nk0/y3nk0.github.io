@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>My published work, grouped by type and listed from newest to oldest. Click a title for the paper page, or expand the abstract inline.
+{% if site.author.googlescholar %}You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.{% endif %}</p>
+
+<p class="pub-jump">{% for category in site.publication_category %}<a href="#{{ category[0] }}">{{ category[1].title }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>
+
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2 id="{{ category[0] }}">{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

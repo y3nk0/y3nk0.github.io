@@ -1,0 +1,118 @@
+/* ==========================================================================
+   SITE-SPECIFIC STYLES (publications, talks, news, logo strip)
+   ========================================================================== */
+
+.pub-authors {
+  margin: 0.2em 0;
+  font-size: 0.9em;
+}
+
+.pub-venue {
+  margin: 0.2em 0;
+  font-size: 0.85em;
+  color: var(--global-text-color-light);
+}
+
+.pub-badge {
+  display: inline-block;
+  padding: 0.1em 0.5em;
+  margin-right: 0.4em;
+  border-radius: 3px;
+  font-size: 0.8em;
+  font-weight: bold;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #52adc8;
+
+  &--conferences { background-color: #2f6fb3; }
+  &--journals    { background-color: #b8862e; }
+  &--workshops   { background-color: #3d9b62; }
+  &--demos       { background-color: #7b5cc9; }
+  &--preprints   { background-color: #7a7a7a; }
+}
+
+.pub-award {
+  display: inline-block;
+  margin-left: 0.4em;
+  font-weight: bold;
+  color: #c0392b;
+}
+
+.pub-links {
+  margin: 0.3em 0 0.5em;
+  font-size: 0.8em;
+}
+
+.pub-link {
+  display: inline-block;
+  margin: 0 0.4em 0.3em 0;
+  padding: 0.15em 0.6em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  color: var(--global-link-color);
+  text-decoration: none;
+
+  &:hover {
+    border-color: var(--global-link-color-hover);
+    text-decoration: none;
+  }
+}
+
+.pub-jump {
+  font-size: 0.85em;
+}
+
+.pub-abstract {
+  margin: 0.2em 0 0.8em;
+  font-size: 0.85em;
+
+  summary {
+    cursor: pointer;
+    color: var(--global-text-color-light);
+  }
+
+  &__body {
+    margin-top: 0.4em;
+  }
+}
+
+.news-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: 0.9em;
+    padding-left: 0;
+  }
+
+  .news-date {
+    display: inline-block;
+    min-width: 7.5em;
+    font-size: 0.8em;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light);
+  }
+}
+
+.logo-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 1em;
+  margin: 1.5em 0;
+
+  a {
+    flex: 1 1 120px;
+    max-width: 180px;
+    text-align: center;
+  }
+
+  img {
+    max-height: 70px;
+    width: auto;
+  }
+}

@@ -1,0 +1,13 @@
+---
+title: "Moderate COVID-19: Clinical Trajectories and Predictors of Progression and Outcomes"
+collection: publications
+category: journals
+permalink: /publication/2022-09-01-moderate-covid-19-clinical-trajectories-and-predictors
+date: 2022-09-01
+venue: "Journal of Personalized Medicine"
+pubtype: "Journal"
+authors: "Apostolos G. Pappas, Andreas Panagopoulos, Artemis Rodopoulou, Michaella Alexandrou, Anna-Louiza Chaliasou, <b>Konstantinos Skianis</b>, Eleftheria Kranidioti, Eleftheria Chaini, Ilias Papanikolaou, Ioannis Kalomenidis"
+paperurl: "https://www.mdpi.com/2075-4426/12/9/1472"
+citation: "Apostolos G. Pappas, Andreas Panagopoulos, Artemis Rodopoulou, Michaella Alexandrou, Anna-Louiza Chaliasou, <b>Konstantinos Skianis</b>, Eleftheria Kranidioti, Eleftheria Chaini, Ilias Papanikolaou, Ioannis Kalomenidis. <i>Journal of Personalized Medicine 2022</i>."
+---
+Background: Patients with COVID-19 commonly present at healthcare facilities with moderate disease, i.e., pneumonia without a need for oxygen therapy. Aim: To identify clini- cal/laboratory characteristics of patients with moderate COVID-19, which could predict disease progression. Methods: 384 adult patients presented with moderate COVID-19 and admitted to two hospitals were retrospectively evaluated. In a multivariate analysis gender, age, BMI, Charlson Comorbidity Index (CCI) and National Early Weaning Score 2 were treated as co-variates. The development of hypoxemic respiratory failure, intubation rate and risk of death were considered as dependent variables. Estimated values are presented as odds-ratio (OR) with 95% confidence interval (CI). Results: Most of the patients were male (63.28%) with a mean (standard deviation) age of 59 (16.04) years. Median (interquartile range) CCI was 2 (1–4). A total of 58.85% of the patients developed respiratory failure; 6.51% were intubated, and 8.85% died. The extent of pneumonia in chest X-ray (involvement of all four quartiles) [OR 3.96 (1.18–13.27), p = 0.026], respiratory rate [OR 1.17 (1.05–1.3), p = 0.004], SatO2 [OR 0.72 (0.58–0.88), p = 0.002], systolic blood pressure [OR 1.02 (1–1.04), p = 0.041] and lymphocyte count [OR 0.9993 (0.9986–0.9999), p = 0.026] at presentation were associated with the development of respiratory failure. The extent of pneumonia [OR 26.49 (1.81–387.18), p = 0.017] was associated with intubation risk. Age [OR 1.14 (1.03–1.26), p = 0.014] and the extent of pneumonia [OR 22.47 (1.59–316.97), p = 0.021] were associated with increased risk of death. Conclusion: Older age, the extent of pneumonia, tachypnea, lower SatO2, higher systolic blood pressure and lymphopenia are associated with dismal outcomes in patients presenting with moderate COVID-19.

@@ -1,0 +1,18 @@
+{% assign pub = include.pub %}
+{% if pub.authors %}<p class="pub-authors">{{ pub.authors }}</p>{% endif %}
+<p class="pub-venue">
+  {% if pub.pubtype %}<span class="pub-badge pub-badge--{{ pub.category }}">{{ pub.pubtype }}</span>{% endif %}
+  <i>{{ pub.venue }}</i>, {{ pub.date | default: "1900-01-01" | date: "%Y" }}
+  {% if pub.award %}<span class="pub-award"><i class="fa fa-trophy" aria-hidden="true"></i> {{ pub.award }}</span>{% endif %}
+</p>
+{% if pub.paperurl or pub.codeurl or pub.posterurl or pub.slidesurl or pub.demourl or pub.linkurl or pub.bibtexurl %}
+<p class="pub-links">
+  {% if pub.paperurl %}<a class="pub-link" href="{{ pub.paperurl }}"><i class="fa fa-file-pdf" aria-hidden="true"></i> Paper</a>{% endif %}
+  {% if pub.codeurl %}<a class="pub-link" href="{{ pub.codeurl }}"><i class="fa fa-code" aria-hidden="true"></i> Code</a>{% endif %}
+  {% if pub.posterurl %}<a class="pub-link" href="{{ pub.posterurl }}"><i class="fa fa-image" aria-hidden="true"></i> Poster</a>{% endif %}
+  {% if pub.slidesurl %}<a class="pub-link" href="{{ pub.slidesurl }}"><i class="fa fa-desktop" aria-hidden="true"></i> Slides</a>{% endif %}
+  {% if pub.demourl %}<a class="pub-link" href="{{ pub.demourl }}"><i class="fa fa-play" aria-hidden="true"></i> Demo</a>{% endif %}
+  {% if pub.linkurl %}<a class="pub-link" href="{{ pub.linkurl }}"><i class="fa fa-link" aria-hidden="true"></i> Resources</a>{% endif %}
+  {% if pub.bibtexurl %}<a class="pub-link" href="{{ pub.bibtexurl }}"><i class="fa fa-quote-right" aria-hidden="true"></i> BibTeX</a>{% endif %}
+</p>
+{% endif %}
