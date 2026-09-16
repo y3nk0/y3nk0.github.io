@@ -192,24 +192,6 @@
   text-align: center;
 }
 
-/* Smaller social share row on paper and course pages */
-
-.page__share {
-  margin-top: 1.5em;
-  padding-top: 0.6em;
-
-  .page__share-title {
-    margin-bottom: 0.4em;
-    font-size: 0.65em;
-  }
-
-  .btn {
-    margin-bottom: 0;
-    padding: 0.25em 0.6em;
-    font-size: 0.65em;
-  }
-}
-
 /* The theme reserves 9em under the content for its tall fixed footer; the compact footer needs far less */
 body {
   padding-bottom: 3.5em;
