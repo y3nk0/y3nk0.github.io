@@ -41,8 +41,6 @@ Education
 
 Contact
 ======
-Feel free to send me an email to discuss research or to arrange a meeting.
-
 Department of Computer Science and Engineering  
 University of Ioannina  
 45110 Ioannina, Greece
