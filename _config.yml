@@ -27,7 +27,7 @@ author:
   name             : "Konstantinos Skianis"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of NLP, Department of Computer Science and Engineering, University of Ioannina"
-  location         : "Ioannina, Greece"
+  location         : # e.g. "Ioannina, Greece"
   employer         : "University of Ioannina"
   uri              : # URL
   email            : "skianis.konstantinos@gmail.com"
