@@ -8,8 +8,10 @@ redirect_from:
 venue: "University of Ioannina, Department of Computer Science and Engineering"
 date: 2026-10-01
 location: "Ioannina, Greece"
-excerpt: "Undergraduate Linear Algebra course (academic year 2026–2027): lecture slides and a LaTeX template for the exercises."
+excerpt: "Undergraduate Linear Algebra course (academic year 2026–2027): lecture slides and a LaTeX template for the exercises. I also taught this course in 2024–2025 and 2025–2026."
 ---
+
+I have also taught this course in the academic years 2024–2025 and 2025–2026.
 
 Lecture slides
 ======
