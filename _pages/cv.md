@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Download my CV as a PDF](/files/skianis_konstantinos_cv_eng.pdf){: .btn .btn--info}
+{% if site.author.googlescholar %}[Google Scholar profile]({{ site.author.googlescholar }}){: .btn .btn--info}{% endif %}
 
 Education
 ======
