@@ -13,7 +13,6 @@ Topics
 * Machine Learning, Deep Learning
 * Graph Mining, Network Science
 * Big Data, Data Science
-* Trustworthy and reliable models: robustness, reasoning, interpretability and explainability
 
 Companies
 ======
