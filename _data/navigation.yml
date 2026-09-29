@@ -13,8 +13,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Competitions"
-    url: /competitions/
-
   - title: "CV"
     url: /cv/
+
+# Hidden from the header; the page is still built and reachable at its URL.
+#  - title: "Competitions"
+#    url: /competitions/
