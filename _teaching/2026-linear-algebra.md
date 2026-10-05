@@ -16,14 +16,14 @@ I have also taught this course in the academic years 2024–2025 and 2025–2026
 Lecture slides
 ======
 1. [Arrays](/teaching/1_arrays.pdf)
+2. [Determinants](/teaching/2_determinants.pdf)
+3. [Linear systems](/teaching/3_linear_systems.pdf)
 
-<!-- Remaining slides from 2025-2026; uncomment each one as it is covered this year.
-2. [Introduction to vectors](/teaching/2_intro_vectors.pdf)
-3. [Determinants](/teaching/3_determinants.pdf)
-4. [Linear systems](/teaching/4_linear_systems.pdf)
-5. [Vector spaces](/teaching/5_vector_spaces.pdf)
-6. [Quantities and forms](/teaching/6_quantities_forms.pdf)
-7. [Singular value decomposition](/teaching/7_svd.pdf)
+<!-- Slides still to come; uncomment each one as it is covered. The numbers are this
+     year's lecture order, while the filenames are still the ones from 2025-2026.
+4. [Vector spaces](/teaching/5_vector_spaces.pdf)
+5. [Quantities and forms](/teaching/6_quantities_forms.pdf)
+6. [Singular value decomposition](/teaching/7_svd.pdf)
 -->
 
 Exercises
