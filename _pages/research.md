@@ -17,7 +17,7 @@ Topics
 Companies
 ======
 * [BLUAI](http://bluai.github.io/) (founder): a Greek AI company which assists in accelerating AI adoption and incorporating novel NLP technologies.
-* [PrimeHost AI](https://primehost.ai/) (co-founder): a startup which aims to build an AI superhost for short-term rentals.
+* [primehost.ai](https://primehost.ai/) (co-founder): a startup which aims to build an AI superhost for short-term rentals.
 
 Academic service
 ======
