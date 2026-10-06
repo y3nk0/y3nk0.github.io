@@ -23,7 +23,7 @@ Positions
 ======
 * Assistant Professor of Natural Language Processing, Department of Computer Science and Engineering, University of Ioannina, Greece
 * Founder, [BLUAI](http://bluai.github.io/), a Greek AI company accelerating AI adoption and incorporating novel NLP technologies
-* Co-founder, [PrimeHost AI](https://primehost.ai/), a startup building an AI superhost for short-term rentals
+* Co-founder, [primehost.ai](https://primehost.ai/), a startup building an AI superhost for short-term rentals
 * Postdoctoral researcher, DaSciM, LIX, École Polytechnique, March-May 2019 ("Jeune Postdoc" scholarship)
 * Ph.D. researcher, DaSciM, LIX, École Polytechnique, 2015-2019
 
