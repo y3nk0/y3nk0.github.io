@@ -23,7 +23,7 @@ Academic service
 ======
 Reviewing and area chairing:
 
-* 2026: ARR, ICLR, NeurIPS
+* 2026: ARR, ICLR, NeurIPS (Top Reviewer)
 * 2025: Area Chair at ARR; ICLR
 * 2024: ARR
 * 2019: LLD @ ICLR, NAACL

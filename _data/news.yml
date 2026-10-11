@@ -2,6 +2,10 @@
 # Each item needs: date (YYYY-MM-DD), title, text (HTML allowed).
 # To hide an item without deleting it, add `hidden: true`.
 
+- date: 2026-10-11
+  title: "Top Reviewer at NeurIPS 2026"
+  text: "I was named a Top Reviewer for <a href=\"https://neurips.cc/\">NeurIPS 2026</a>."
+
 - date: 2026-09-12
   title: "Best paper at GREEN-AI Workshop, co-located with ECML-PKDD 2026"
   text: "Our paper <a href=\"/publication/2026-09-12-from-tokens-to-watt-hours-analytical-energy\">\"From Tokens to Watt-hours: Analytical Energy Estimation for LLM Inference on Modern GPUs\"</a> got accepted for oral presentation at the GREEN-AI Workshop, co-located with ECML-PKDD 2026, and also got the Best Paper Award! You can check out the paper <a href=\"https://arxiv.org/abs/2607.26571\">here</a>."

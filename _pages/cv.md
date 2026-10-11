@@ -32,6 +32,7 @@ Awards
 * Best Paper Award, GREEN-AI Workshop @ ECML-PKDD 2026
 * Best Paper Award, SemEval-2026 Task 6 @ ACL 2026
 * Best Paper Award, TextGraphs Workshop @ NAACL 2018
+* Top Reviewer, NeurIPS 2026
 * OpenAI Researcher Access Program credits, 2024
 * Data science competitions: see the [Competitions](/competitions/) page
 
@@ -44,7 +45,7 @@ Research interests
 
 Academic service
 ======
-* 2026: Reviewer, ARR, ICLR, NeurIPS
+* 2026: Reviewer, ARR, ICLR, NeurIPS (Top Reviewer)
 * 2025: Area Chair, ARR; Reviewer, ICLR
 * 2024: Reviewer, ARR
 * 2019: Reviewer, LLD @ ICLR, NAACL
