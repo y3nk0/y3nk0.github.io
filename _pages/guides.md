@@ -37,7 +37,9 @@ What they cover:
 Doing an Undergraduate Thesis in Machine Learning or NLP
 ======
 
-* **[The guide](/files/guides/undergrad-thesis-ml-nlp-guide.pdf)** (14 pages) — for final-year students starting a thesis.
+* **[The full guide](/files/guides/undergrad-thesis-ml-nlp-guide.pdf)** (14 pages) — hand it out at the first supervision meeting.
+* **[One-page cheat sheet](/files/guides/undergrad-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
+* **[Slides](/files/guides/undergrad-thesis-slides.pdf)** (28 slides) — a thesis-kickoff talk for a whole cohort.
 
 Nobody expects an undergraduate thesis to beat the state of the art. The
 expectation is that you do something correctly, understand it completely, and
