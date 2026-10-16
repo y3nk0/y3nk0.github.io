@@ -26,7 +26,7 @@ What they cover:
 * **The publication landscape** — ML venues (NeurIPS, ICML, ICLR, AISTATS, AAAI, IJCAI, COLM) and NLP venues (ACL, EMNLP, NAACL/EACL/AACL, COLING/LREC, TACL, Findings), how the ACL Rolling Review submit-then-commit cycle works, and how to judge a venue.
 * **Deadlines** — the countdown boards worth bookmarking, the AoE trap, and a calendar workflow that backward-plans from camera-ready.
 * **Writing and sharing** — Overleaf, Prism, a local `git` + `latexmk` workflow, `arxiv-latex-cleaner`, anonymity periods, and releasing code and checkpoints.
-* **Zotero** — the connector, Better BibTeX with pinned keys and auto-export into your paper repository, and the habits that keep a library trustworthy.
+* **Zotero** — the connector, Better BibTeX with pinned keys and auto-export into your paper repository, and the habits that keep a library trustworthy. Includes the quickest way to get an entry into your `.bib` (Google Scholar's BibTeX links), what to check in it, and cleaner sources — the ACL Anthology, DBLP, or any DOI straight from the terminal.
 * **A focused survey as the first project** — a ten-step protocol that ends with three gaps stated as testable questions.
 * **Searching the literature** — Google Scholar as an instrument, plus Semantic Scholar, OpenAlex, the ACL Anthology, OpenReview and DBLP.
 * **Reading the signals** — citation velocity over volume, and what GitHub stars, commit history and issues really tell you about a baseline.
@@ -48,7 +48,7 @@ explain it clearly. The guide covers:
 * **Finding a topic by three routes** — a **shared task or challenge** (SemEval, workshop tasks at *ACL venues, WMT, CoNLL, BabyLM, CLEF labs and TREC tracks, Kaggle and the competition platforms), an **application thesis** (a method taken carefully to a new language, domain or deployment constraint), or an **analysis/theoretical thesis** (reproduction, ablation, robustness, probing, efficiency, or a critique of the metric itself).
 * **Six places where gaps are written down explicitly** — limitations sections, future work, survey taxonomies, workshop calls for papers, task overview papers, and plateaued leaderboards.
 * **The one-page proposal** to agree with your supervisor before writing any code, and a scope test that catches the most common way a thesis goes wrong.
-* **The toolkit** — Zotero, LaTeX and Overleaf, git, free GPUs, experiment tracking, and data licensing.
+* **The toolkit** — Zotero, LaTeX and Overleaf, git, free GPUs, experiment tracking, and data licensing — plus the quickest way to get a reference into your `.bib` and how to check it.
 * **Using an AI assistant honestly** — including the rule that matters at the defence: you must be able to explain every line you submit.
 * **Doing the work** — baselines first, the mistakes that cost marks (leakage, one seed, unfair comparisons), and why negative results are results.
 * **Writing and defending** — a chapter-by-chapter structure with sizes, writing advice, likely defence questions, a six-month timetable, and checklists.
