@@ -19,9 +19,9 @@ Lecture slides
 2. [Determinants](/teaching/2_determinants.pdf)
 3. [Linear systems](/teaching/3_linear_systems.pdf)
 4. [Introduction to vectors](/teaching/4_intro_vectors.pdf)
+5. [Vector spaces](/teaching/5_vector_spaces.pdf)
 
 <!-- Slides still to come; uncomment each one as it is covered.
-5. [Vector spaces](/teaching/5_vector_spaces.pdf)
 6. [Quantities and forms](/teaching/6_quantities_forms.pdf)
 7. [Singular value decomposition](/teaching/7_svd.pdf)
 -->
