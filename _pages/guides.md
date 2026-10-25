@@ -9,9 +9,9 @@ Practical guides I wrote for my students: venues, deadlines, tools, and the
 habits that make research easier. They are free to download, use in your own
 lab, and adapt — the LaTeX sources live in
 [github.com/y3nk0/practical_guides](https://github.com/y3nk0/practical_guides).
-The PDFs below are served straight from that repository, so what you open is
-always the latest build. Corrections and additions are welcome; venues and
-tools move fast.
+The PDFs below are served from that repository, so what you open is always the
+latest build. Corrections and additions are welcome; venues and tools move
+fast.
 
 Starting a PhD in Machine Learning or NLP
 ======
@@ -19,9 +19,9 @@ Starting a PhD in Machine Learning or NLP
 A starter kit for new PhD students, in three formats with the same content at
 three levels of detail.
 
-* **[The full guide](https://github.com/y3nk0/practical_guides/blob/main/phd-ml-nlp-starter-guide.pdf)** (19 pages) — read it through in your first week · [direct PDF](https://github.com/y3nk0/practical_guides/raw/main/phd-ml-nlp-starter-guide.pdf)
-* **[One-page cheat sheet](https://github.com/y3nk0/practical_guides/blob/main/phd-ml-nlp-onepager.pdf)** (1 page) — print it and pin it above your desk · [direct PDF](https://github.com/y3nk0/practical_guides/raw/main/phd-ml-nlp-onepager.pdf)
-* **[Slides](https://github.com/y3nk0/practical_guides/blob/main/phd-ml-nlp-slides.pdf)** (44 slides) — for a lab induction talk or a first-year seminar · [direct PDF](https://github.com/y3nk0/practical_guides/raw/main/phd-ml-nlp-slides.pdf)
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd-ml-nlp-starter-guide.pdf)** (19 pages) — read it through in your first week.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd-ml-nlp-onepager.pdf)** (1 page) — print it and pin it above your desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd-ml-nlp-slides.pdf)** (44 slides) — for a lab induction talk or a first-year seminar.
 
 What they cover:
 
@@ -39,9 +39,9 @@ What they cover:
 Doing an Undergraduate Thesis in Machine Learning or NLP
 ======
 
-* **[The full guide](https://github.com/y3nk0/practical_guides/blob/main/undergrad-thesis-ml-nlp-guide.pdf)** (15 pages) — hand it out at the first supervision meeting · [direct PDF](https://github.com/y3nk0/practical_guides/raw/main/undergrad-thesis-ml-nlp-guide.pdf)
-* **[One-page cheat sheet](https://github.com/y3nk0/practical_guides/blob/main/undergrad-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk · [direct PDF](https://github.com/y3nk0/practical_guides/raw/main/undergrad-thesis-onepager.pdf)
-* **[Slides](https://github.com/y3nk0/practical_guides/blob/main/undergrad-thesis-slides.pdf)** (29 slides) — a thesis-kickoff talk for a whole cohort · [direct PDF](https://github.com/y3nk0/practical_guides/raw/main/undergrad-thesis-slides.pdf)
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis-ml-nlp-guide.pdf)** (15 pages) — hand it out at the first supervision meeting.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis-slides.pdf)** (29 slides) — a thesis-kickoff talk for a whole cohort.
 
 Nobody expects an undergraduate thesis to beat the state of the art. The
 expectation is that you do something correctly, understand it completely, and
