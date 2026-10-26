@@ -19,9 +19,9 @@ Starting a PhD in Machine Learning or NLP
 A starter kit for new PhD students, in three formats with the same content at
 three levels of detail.
 
-* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd-ml-nlp-starter-guide.pdf)** (20 pages) — read it through in your first week.
-* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd-ml-nlp-onepager.pdf)** (1 page) — print it and pin it above your desk.
-* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd-ml-nlp-slides.pdf)** (45 slides) — for a lab induction talk or a first-year seminar.
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd/phd-ml-nlp-starter-guide.pdf)** (20 pages) — read it through in your first week.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd/phd-ml-nlp-onepager.pdf)** (1 page) — print it and pin it above your desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd/phd-ml-nlp-slides.pdf)** (46 slides) — for a lab induction talk or a first-year seminar.
 
 What they cover:
 
@@ -39,9 +39,9 @@ What they cover:
 Doing an Undergraduate Thesis in Machine Learning or NLP
 ======
 
-* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis-ml-nlp-guide.pdf)** (15 pages) — hand it out at the first supervision meeting.
-* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
-* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis-slides.pdf)** (30 slides) — a thesis-kickoff talk for a whole cohort.
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis/undergrad-thesis-ml-nlp-guide.pdf)** (15 pages) — hand it out at the first supervision meeting.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis/undergrad-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis/undergrad-thesis-slides.pdf)** (31 slides) — a thesis-kickoff talk for a whole cohort.
 
 Nobody expects an undergraduate thesis to beat the state of the art. The
 expectation is that you do something correctly, understand it completely, and
