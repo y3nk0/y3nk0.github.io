@@ -36,6 +36,27 @@ What they cover:
 * **Your personal site** — GitHub Pages and the AcademicPages template, step by step.
 * **Infrastructure and habits** — reproducible experiments, seeds and variance, experiment tracking, the weekly supervisor meeting, and checklists for week 1, month 1, months 2–3, year 1, and before every submission.
 
+Doing a Master's Thesis in Machine Learning or NLP
+======
+
+For the project between the other two: a contribution is expected, but a
+bounded one, finished in two semesters.
+
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/masters-thesis/masters-thesis-ml-nlp-guide.pdf)** (12 pages) — agree it at the first meeting.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/masters-thesis/masters-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/masters-thesis/masters-thesis-slides.pdf)** (22 slides) — a kickoff talk for a master's cohort.
+
+What it covers:
+
+* **The bar, measured against the other two degrees** — what changes from an undergraduate project (your own question, a *positioned* related-work chapter, ablations and significance where claimed) and what a PhD asks that a master's does not.
+* **The one-claim test** — the sentence your thesis exists to defend, and what an unfilled slot in it tells you to work on next.
+* **Five routes to a contribution** — extend one paper, reproduce and interrogate, a shared task with an analytical angle, an applied or industry thesis, or analysis and theory — plus the six places where open questions are already written down.
+* **The two-page proposal** and the scope test that catches the way theses actually fail.
+* **Industry and NDA theses** — the six questions to settle in writing before you start, and how to write around confidential data so an examiner can still check your reasoning.
+* **Evidence that survives an examiner** — baselines first, seeds and spread, paired bootstrap and permutation tests, reporting compute, and the mistakes that cost a grade.
+* **Supervision** — what to decide yourself, what to bring to the meeting, and what to escalate the same day.
+* **Writing, the defence, and turning the thesis into a paper** — what to cut, where to send it, authorship, and timing against the thesis deadline.
+
 Doing an Undergraduate Thesis in Machine Learning or NLP
 ======
 
