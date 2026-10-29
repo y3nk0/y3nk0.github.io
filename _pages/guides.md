@@ -8,7 +8,7 @@ author_profile: true
 Practical guides I wrote for my students: venues, deadlines, tools, and the
 habits that make research easier. They are free to download, use in your own
 lab, and adapt — the LaTeX sources live in
-[github.com/y3nk0/practical_guides](https://github.com/y3nk0/practical_guides).
+[github.com/y3nk0/practical-guides](https://github.com/y3nk0/practical-guides).
 The PDFs below are served from that repository, so what you open is always the
 latest build. Corrections and additions are welcome; venues and tools move
 fast.
@@ -19,9 +19,9 @@ Starting a PhD in Machine Learning or NLP
 A starter kit for new PhD students, in three formats with the same content at
 three levels of detail.
 
-* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd/phd-ml-nlp-starter-guide.pdf)** (20 pages) — read it through in your first week.
-* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd/phd-ml-nlp-onepager.pdf)** (1 page) — print it and pin it above your desk.
-* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/phd/phd-ml-nlp-slides.pdf)** (46 slides) — for a lab induction talk or a first-year seminar.
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/phd/phd-ml-nlp-starter-guide.pdf)** (20 pages) — read it through in your first week.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/phd/phd-ml-nlp-onepager.pdf)** (1 page) — print it and pin it above your desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/phd/phd-ml-nlp-slides.pdf)** (46 slides) — for a lab induction talk or a first-year seminar.
 
 What they cover:
 
@@ -42,9 +42,9 @@ Doing a Master's Thesis in Machine Learning or NLP
 For the project between the other two: a contribution is expected, but a
 bounded one, finished in two semesters.
 
-* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/masters-thesis/masters-thesis-ml-nlp-guide.pdf)** (12 pages) — agree it at the first meeting.
-* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/masters-thesis/masters-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
-* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/masters-thesis/masters-thesis-slides.pdf)** (22 slides) — a kickoff talk for a master's cohort.
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/masters-thesis/masters-thesis-ml-nlp-guide.pdf)** (12 pages) — agree it at the first meeting.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/masters-thesis/masters-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/masters-thesis/masters-thesis-slides.pdf)** (22 slides) — a kickoff talk for a master's cohort.
 
 What it covers:
 
@@ -60,9 +60,9 @@ What it covers:
 Doing an Undergraduate Thesis in Machine Learning or NLP
 ======
 
-* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis/undergrad-thesis-ml-nlp-guide.pdf)** (15 pages) — hand it out at the first supervision meeting.
-* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis/undergrad-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
-* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical_guides@main/undergrad-thesis/undergrad-thesis-slides.pdf)** (31 slides) — a thesis-kickoff talk for a whole cohort.
+* **[The full guide](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/undergrad-thesis/undergrad-thesis-ml-nlp-guide.pdf)** (15 pages) — hand it out at the first supervision meeting.
+* **[One-page cheat sheet](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/undergrad-thesis/undergrad-thesis-onepager.pdf)** (1 page) — print it and pin it above the desk.
+* **[Slides](https://cdn.jsdelivr.net/gh/y3nk0/practical-guides@main/undergrad-thesis/undergrad-thesis-slides.pdf)** (31 slides) — a thesis-kickoff talk for a whole cohort.
 
 Nobody expects an undergraduate thesis to beat the state of the art. The
 expectation is that you do something correctly, understand it completely, and
