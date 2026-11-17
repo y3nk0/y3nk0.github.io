@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Konstantinos Skianis is an Assistant Professor of Natural Language Processing at the Department of Computer Science and Engineering, University of Ioannina."
+excerpt: "Konstantinos Skianis is an Assistant Professor of Natural Language Processing with Artificial Intelligence at the Department of Computer Science and Engineering, University of Ioannina."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor of Natural Language Processing (NLP) at the [Department of Computer Science and Engineering](https://www.cse.uoi.gr/) of the [University of Ioannina](https://www.uoi.gr/). My primary research interests lie at the intersection of NLP, Machine Learning, Deep Learning, and Data Science. More specifically, I am interested in how robustness, reasoning, interpretability, and explainability jointly contribute to building trustworthy and reliable models.
+I am an Assistant Professor of Natural Language Processing with Artificial Intelligence at the [Department of Computer Science and Engineering](https://www.cse.uoi.gr/) of the [University of Ioannina](https://www.uoi.gr/). My primary research interests lie at the intersection of Natural Language Processing (NLP), Machine Learning, Deep Learning, and Data Science. More specifically, I am interested in how robustness, reasoning, interpretability, and explainability jointly contribute to building trustworthy and reliable models.
 
 I founded [BLUAI](http://bluai.github.io/), a Greek AI company which assists in accelerating AI adoption and incorporating novel NLP technologies. I also co-founded [primehost.ai](https://primehost.ai/), a startup which aims to build an AI superhost for short-term rentals.
 
