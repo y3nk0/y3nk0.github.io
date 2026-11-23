@@ -2,6 +2,10 @@
 # Each item needs: date (YYYY-MM-DD), title, text (HTML allowed).
 # To hide an item without deleting it, add `hidden: true`.
 
+- date: 2026-11-19
+  title: "New preprint on weight-space programming"
+  text: "Our new preprint <a href=\"/publication/2026-11-19-weight-space-programming-writes-in-context-learning\">\"Weight-Space Programming Writes In-Context Learning and Matches Fine-Tuning in Language Models\"</a>, joint work with Aristidis Likas, is now on arXiv. You can check out the paper <a href=\"https://arxiv.org/abs/2611.26841\">here</a> and the code <a href=\"https://github.com/y3nk0/weight-space-programming-study\">here</a>."
+
 - date: 2026-10-11
   title: "Top Reviewer at NeurIPS 2026"
   text: "I was named a Top Reviewer for <a href=\"https://neurips.cc/\">NeurIPS 2026</a>."
