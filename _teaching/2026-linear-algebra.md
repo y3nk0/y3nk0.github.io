@@ -21,10 +21,7 @@ Lecture slides
 4. [Introduction to vectors](/teaching/4_intro_vectors.pdf)
 5. [Vector spaces](/teaching/5_vector_spaces.pdf)
 6. [Quantities and forms](/teaching/6_quantities_forms.pdf)
-
-<!-- Slides still to come; uncomment each one as it is covered.
-7. [Singular value decomposition](/teaching/7_svd.pdf)
--->
+7. [Matrix decompositions](/teaching/7_svd.pdf)
 
 Exercises
 ======
