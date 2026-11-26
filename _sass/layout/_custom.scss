@@ -146,7 +146,7 @@
   &.is-active {
     background: var(--global-link-color);
     border-color: var(--global-link-color);
-    color: #fff;
+    color: var(--global-bg-color);
   }
 
   &__count {

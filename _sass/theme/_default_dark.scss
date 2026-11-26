@@ -19,7 +19,7 @@ $border                     : #2a2e36;
 $border-dark                : #1f2329;
 $text                       : #e8eaed;
 $text-light                 : #9aa0a6;
-$link                       : #0ea1c5;
+$link                       : #7cb4f5;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 
@@ -51,10 +51,10 @@ html[data-theme="dark"] {
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$text-light};
     --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
+    --global-link-color-hover           : #{$link-light};
     --global-link-color-visited         : #{$link-light};
     --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-masthead-link-color-hover  : #{$link};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-light};
     --global-thead-color                : #{$background-lighter};
